@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Roxiller_Comp/static/css/main.d4d5fdf7.css",
+    "main.js": "/Roxiller_Comp/static/js/main.0940ef23.js",
+    "index.html": "/Roxiller_Comp/index.html",
+    "main.d4d5fdf7.css.map": "/Roxiller_Comp/static/css/main.d4d5fdf7.css.map",
+    "main.0940ef23.js.map": "/Roxiller_Comp/static/js/main.0940ef23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d5fdf7.css",
+    "static/js/main.0940ef23.js"
+  ]
+}
